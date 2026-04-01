@@ -1,0 +1,1732 @@
+[
+  {
+    "id": 1,
+    "name": "Comuna 1",
+    "region_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Comuna 2",
+    "region_id": 3
+  },
+  {
+    "id": 3,
+    "name": "Comuna 3",
+    "region_id": 4
+  },
+  {
+    "id": 4,
+    "name": "Comuna 4",
+    "region_id": 5
+  },
+  {
+    "id": 5,
+    "name": "Comuna 5",
+    "region_id": 6
+  },
+  {
+    "id": 6,
+    "name": "Comuna 6",
+    "region_id": 7
+  },
+  {
+    "id": 7,
+    "name": "Comuna 7",
+    "region_id": 8
+  },
+  {
+    "id": 8,
+    "name": "Comuna 8",
+    "region_id": 9
+  },
+  {
+    "id": 9,
+    "name": "Comuna 9",
+    "region_id": 10
+  },
+  {
+    "id": 10,
+    "name": "Comuna 10",
+    "region_id": 11
+  },
+  {
+    "id": 11,
+    "name": "Comuna 11",
+    "region_id": 12
+  },
+  {
+    "id": 12,
+    "name": "Comuna 12",
+    "region_id": 13
+  },
+  {
+    "id": 13,
+    "name": "Comuna 13",
+    "region_id": 14
+  },
+  {
+    "id": 14,
+    "name": "Comuna 14",
+    "region_id": 15
+  },
+  {
+    "id": 15,
+    "name": "Comuna 15",
+    "region_id": 16
+  },
+  {
+    "id": 16,
+    "name": "Comuna 16",
+    "region_id": 1
+  },
+  {
+    "id": 17,
+    "name": "Comuna 17",
+    "region_id": 2
+  },
+  {
+    "id": 18,
+    "name": "Comuna 18",
+    "region_id": 3
+  },
+  {
+    "id": 19,
+    "name": "Comuna 19",
+    "region_id": 4
+  },
+  {
+    "id": 20,
+    "name": "Comuna 20",
+    "region_id": 5
+  },
+  {
+    "id": 21,
+    "name": "Comuna 21",
+    "region_id": 6
+  },
+  {
+    "id": 22,
+    "name": "Comuna 22",
+    "region_id": 7
+  },
+  {
+    "id": 23,
+    "name": "Comuna 23",
+    "region_id": 8
+  },
+  {
+    "id": 24,
+    "name": "Comuna 24",
+    "region_id": 9
+  },
+  {
+    "id": 25,
+    "name": "Comuna 25",
+    "region_id": 10
+  },
+  {
+    "id": 26,
+    "name": "Comuna 26",
+    "region_id": 11
+  },
+  {
+    "id": 27,
+    "name": "Comuna 27",
+    "region_id": 12
+  },
+  {
+    "id": 28,
+    "name": "Comuna 28",
+    "region_id": 13
+  },
+  {
+    "id": 29,
+    "name": "Comuna 29",
+    "region_id": 14
+  },
+  {
+    "id": 30,
+    "name": "Comuna 30",
+    "region_id": 15
+  },
+  {
+    "id": 31,
+    "name": "Comuna 31",
+    "region_id": 16
+  },
+  {
+    "id": 32,
+    "name": "Comuna 32",
+    "region_id": 1
+  },
+  {
+    "id": 33,
+    "name": "Comuna 33",
+    "region_id": 2
+  },
+  {
+    "id": 34,
+    "name": "Comuna 34",
+    "region_id": 3
+  },
+  {
+    "id": 35,
+    "name": "Comuna 35",
+    "region_id": 4
+  },
+  {
+    "id": 36,
+    "name": "Comuna 36",
+    "region_id": 5
+  },
+  {
+    "id": 37,
+    "name": "Comuna 37",
+    "region_id": 6
+  },
+  {
+    "id": 38,
+    "name": "Comuna 38",
+    "region_id": 7
+  },
+  {
+    "id": 39,
+    "name": "Comuna 39",
+    "region_id": 8
+  },
+  {
+    "id": 40,
+    "name": "Comuna 40",
+    "region_id": 9
+  },
+  {
+    "id": 41,
+    "name": "Comuna 41",
+    "region_id": 10
+  },
+  {
+    "id": 42,
+    "name": "Comuna 42",
+    "region_id": 11
+  },
+  {
+    "id": 43,
+    "name": "Comuna 43",
+    "region_id": 12
+  },
+  {
+    "id": 44,
+    "name": "Comuna 44",
+    "region_id": 13
+  },
+  {
+    "id": 45,
+    "name": "Comuna 45",
+    "region_id": 14
+  },
+  {
+    "id": 46,
+    "name": "Comuna 46",
+    "region_id": 15
+  },
+  {
+    "id": 47,
+    "name": "Comuna 47",
+    "region_id": 16
+  },
+  {
+    "id": 48,
+    "name": "Comuna 48",
+    "region_id": 1
+  },
+  {
+    "id": 49,
+    "name": "Comuna 49",
+    "region_id": 2
+  },
+  {
+    "id": 50,
+    "name": "Comuna 50",
+    "region_id": 3
+  },
+  {
+    "id": 51,
+    "name": "Comuna 51",
+    "region_id": 4
+  },
+  {
+    "id": 52,
+    "name": "Comuna 52",
+    "region_id": 5
+  },
+  {
+    "id": 53,
+    "name": "Comuna 53",
+    "region_id": 6
+  },
+  {
+    "id": 54,
+    "name": "Comuna 54",
+    "region_id": 7
+  },
+  {
+    "id": 55,
+    "name": "Comuna 55",
+    "region_id": 8
+  },
+  {
+    "id": 56,
+    "name": "Comuna 56",
+    "region_id": 9
+  },
+  {
+    "id": 57,
+    "name": "Comuna 57",
+    "region_id": 10
+  },
+  {
+    "id": 58,
+    "name": "Comuna 58",
+    "region_id": 11
+  },
+  {
+    "id": 59,
+    "name": "Comuna 59",
+    "region_id": 12
+  },
+  {
+    "id": 60,
+    "name": "Comuna 60",
+    "region_id": 13
+  },
+  {
+    "id": 61,
+    "name": "Comuna 61",
+    "region_id": 14
+  },
+  {
+    "id": 62,
+    "name": "Comuna 62",
+    "region_id": 15
+  },
+  {
+    "id": 63,
+    "name": "Comuna 63",
+    "region_id": 16
+  },
+  {
+    "id": 64,
+    "name": "Comuna 64",
+    "region_id": 1
+  },
+  {
+    "id": 65,
+    "name": "Comuna 65",
+    "region_id": 2
+  },
+  {
+    "id": 66,
+    "name": "Comuna 66",
+    "region_id": 3
+  },
+  {
+    "id": 67,
+    "name": "Comuna 67",
+    "region_id": 4
+  },
+  {
+    "id": 68,
+    "name": "Comuna 68",
+    "region_id": 5
+  },
+  {
+    "id": 69,
+    "name": "Comuna 69",
+    "region_id": 6
+  },
+  {
+    "id": 70,
+    "name": "Comuna 70",
+    "region_id": 7
+  },
+  {
+    "id": 71,
+    "name": "Comuna 71",
+    "region_id": 8
+  },
+  {
+    "id": 72,
+    "name": "Comuna 72",
+    "region_id": 9
+  },
+  {
+    "id": 73,
+    "name": "Comuna 73",
+    "region_id": 10
+  },
+  {
+    "id": 74,
+    "name": "Comuna 74",
+    "region_id": 11
+  },
+  {
+    "id": 75,
+    "name": "Comuna 75",
+    "region_id": 12
+  },
+  {
+    "id": 76,
+    "name": "Comuna 76",
+    "region_id": 13
+  },
+  {
+    "id": 77,
+    "name": "Comuna 77",
+    "region_id": 14
+  },
+  {
+    "id": 78,
+    "name": "Comuna 78",
+    "region_id": 15
+  },
+  {
+    "id": 79,
+    "name": "Comuna 79",
+    "region_id": 16
+  },
+  {
+    "id": 80,
+    "name": "Comuna 80",
+    "region_id": 1
+  },
+  {
+    "id": 81,
+    "name": "Comuna 81",
+    "region_id": 2
+  },
+  {
+    "id": 82,
+    "name": "Comuna 82",
+    "region_id": 3
+  },
+  {
+    "id": 83,
+    "name": "Comuna 83",
+    "region_id": 4
+  },
+  {
+    "id": 84,
+    "name": "Comuna 84",
+    "region_id": 5
+  },
+  {
+    "id": 85,
+    "name": "Comuna 85",
+    "region_id": 6
+  },
+  {
+    "id": 86,
+    "name": "Comuna 86",
+    "region_id": 7
+  },
+  {
+    "id": 87,
+    "name": "Comuna 87",
+    "region_id": 8
+  },
+  {
+    "id": 88,
+    "name": "Comuna 88",
+    "region_id": 9
+  },
+  {
+    "id": 89,
+    "name": "Comuna 89",
+    "region_id": 10
+  },
+  {
+    "id": 90,
+    "name": "Comuna 90",
+    "region_id": 11
+  },
+  {
+    "id": 91,
+    "name": "Comuna 91",
+    "region_id": 12
+  },
+  {
+    "id": 92,
+    "name": "Comuna 92",
+    "region_id": 13
+  },
+  {
+    "id": 93,
+    "name": "Comuna 93",
+    "region_id": 14
+  },
+  {
+    "id": 94,
+    "name": "Comuna 94",
+    "region_id": 15
+  },
+  {
+    "id": 95,
+    "name": "Comuna 95",
+    "region_id": 16
+  },
+  {
+    "id": 96,
+    "name": "Comuna 96",
+    "region_id": 1
+  },
+  {
+    "id": 97,
+    "name": "Comuna 97",
+    "region_id": 2
+  },
+  {
+    "id": 98,
+    "name": "Comuna 98",
+    "region_id": 3
+  },
+  {
+    "id": 99,
+    "name": "Comuna 99",
+    "region_id": 4
+  },
+  {
+    "id": 100,
+    "name": "Comuna 100",
+    "region_id": 5
+  },
+  {
+    "id": 101,
+    "name": "Comuna 101",
+    "region_id": 6
+  },
+  {
+    "id": 102,
+    "name": "Comuna 102",
+    "region_id": 7
+  },
+  {
+    "id": 103,
+    "name": "Comuna 103",
+    "region_id": 8
+  },
+  {
+    "id": 104,
+    "name": "Comuna 104",
+    "region_id": 9
+  },
+  {
+    "id": 105,
+    "name": "Comuna 105",
+    "region_id": 10
+  },
+  {
+    "id": 106,
+    "name": "Comuna 106",
+    "region_id": 11
+  },
+  {
+    "id": 107,
+    "name": "Comuna 107",
+    "region_id": 12
+  },
+  {
+    "id": 108,
+    "name": "Comuna 108",
+    "region_id": 13
+  },
+  {
+    "id": 109,
+    "name": "Comuna 109",
+    "region_id": 14
+  },
+  {
+    "id": 110,
+    "name": "Comuna 110",
+    "region_id": 15
+  },
+  {
+    "id": 111,
+    "name": "Comuna 111",
+    "region_id": 16
+  },
+  {
+    "id": 112,
+    "name": "Comuna 112",
+    "region_id": 1
+  },
+  {
+    "id": 113,
+    "name": "Comuna 113",
+    "region_id": 2
+  },
+  {
+    "id": 114,
+    "name": "Comuna 114",
+    "region_id": 3
+  },
+  {
+    "id": 115,
+    "name": "Comuna 115",
+    "region_id": 4
+  },
+  {
+    "id": 116,
+    "name": "Comuna 116",
+    "region_id": 5
+  },
+  {
+    "id": 117,
+    "name": "Comuna 117",
+    "region_id": 6
+  },
+  {
+    "id": 118,
+    "name": "Comuna 118",
+    "region_id": 7
+  },
+  {
+    "id": 119,
+    "name": "Comuna 119",
+    "region_id": 8
+  },
+  {
+    "id": 120,
+    "name": "Comuna 120",
+    "region_id": 9
+  },
+  {
+    "id": 121,
+    "name": "Comuna 121",
+    "region_id": 10
+  },
+  {
+    "id": 122,
+    "name": "Comuna 122",
+    "region_id": 11
+  },
+  {
+    "id": 123,
+    "name": "Comuna 123",
+    "region_id": 12
+  },
+  {
+    "id": 124,
+    "name": "Comuna 124",
+    "region_id": 13
+  },
+  {
+    "id": 125,
+    "name": "Comuna 125",
+    "region_id": 14
+  },
+  {
+    "id": 126,
+    "name": "Comuna 126",
+    "region_id": 15
+  },
+  {
+    "id": 127,
+    "name": "Comuna 127",
+    "region_id": 16
+  },
+  {
+    "id": 128,
+    "name": "Comuna 128",
+    "region_id": 1
+  },
+  {
+    "id": 129,
+    "name": "Comuna 129",
+    "region_id": 2
+  },
+  {
+    "id": 130,
+    "name": "Comuna 130",
+    "region_id": 3
+  },
+  {
+    "id": 131,
+    "name": "Comuna 131",
+    "region_id": 4
+  },
+  {
+    "id": 132,
+    "name": "Comuna 132",
+    "region_id": 5
+  },
+  {
+    "id": 133,
+    "name": "Comuna 133",
+    "region_id": 6
+  },
+  {
+    "id": 134,
+    "name": "Comuna 134",
+    "region_id": 7
+  },
+  {
+    "id": 135,
+    "name": "Comuna 135",
+    "region_id": 8
+  },
+  {
+    "id": 136,
+    "name": "Comuna 136",
+    "region_id": 9
+  },
+  {
+    "id": 137,
+    "name": "Comuna 137",
+    "region_id": 10
+  },
+  {
+    "id": 138,
+    "name": "Comuna 138",
+    "region_id": 11
+  },
+  {
+    "id": 139,
+    "name": "Comuna 139",
+    "region_id": 12
+  },
+  {
+    "id": 140,
+    "name": "Comuna 140",
+    "region_id": 13
+  },
+  {
+    "id": 141,
+    "name": "Comuna 141",
+    "region_id": 14
+  },
+  {
+    "id": 142,
+    "name": "Comuna 142",
+    "region_id": 15
+  },
+  {
+    "id": 143,
+    "name": "Comuna 143",
+    "region_id": 16
+  },
+  {
+    "id": 144,
+    "name": "Comuna 144",
+    "region_id": 1
+  },
+  {
+    "id": 145,
+    "name": "Comuna 145",
+    "region_id": 2
+  },
+  {
+    "id": 146,
+    "name": "Comuna 146",
+    "region_id": 3
+  },
+  {
+    "id": 147,
+    "name": "Comuna 147",
+    "region_id": 4
+  },
+  {
+    "id": 148,
+    "name": "Comuna 148",
+    "region_id": 5
+  },
+  {
+    "id": 149,
+    "name": "Comuna 149",
+    "region_id": 6
+  },
+  {
+    "id": 150,
+    "name": "Comuna 150",
+    "region_id": 7
+  },
+  {
+    "id": 151,
+    "name": "Comuna 151",
+    "region_id": 8
+  },
+  {
+    "id": 152,
+    "name": "Comuna 152",
+    "region_id": 9
+  },
+  {
+    "id": 153,
+    "name": "Comuna 153",
+    "region_id": 10
+  },
+  {
+    "id": 154,
+    "name": "Comuna 154",
+    "region_id": 11
+  },
+  {
+    "id": 155,
+    "name": "Comuna 155",
+    "region_id": 12
+  },
+  {
+    "id": 156,
+    "name": "Comuna 156",
+    "region_id": 13
+  },
+  {
+    "id": 157,
+    "name": "Comuna 157",
+    "region_id": 14
+  },
+  {
+    "id": 158,
+    "name": "Comuna 158",
+    "region_id": 15
+  },
+  {
+    "id": 159,
+    "name": "Comuna 159",
+    "region_id": 16
+  },
+  {
+    "id": 160,
+    "name": "Comuna 160",
+    "region_id": 1
+  },
+  {
+    "id": 161,
+    "name": "Comuna 161",
+    "region_id": 2
+  },
+  {
+    "id": 162,
+    "name": "Comuna 162",
+    "region_id": 3
+  },
+  {
+    "id": 163,
+    "name": "Comuna 163",
+    "region_id": 4
+  },
+  {
+    "id": 164,
+    "name": "Comuna 164",
+    "region_id": 5
+  },
+  {
+    "id": 165,
+    "name": "Comuna 165",
+    "region_id": 6
+  },
+  {
+    "id": 166,
+    "name": "Comuna 166",
+    "region_id": 7
+  },
+  {
+    "id": 167,
+    "name": "Comuna 167",
+    "region_id": 8
+  },
+  {
+    "id": 168,
+    "name": "Comuna 168",
+    "region_id": 9
+  },
+  {
+    "id": 169,
+    "name": "Comuna 169",
+    "region_id": 10
+  },
+  {
+    "id": 170,
+    "name": "Comuna 170",
+    "region_id": 11
+  },
+  {
+    "id": 171,
+    "name": "Comuna 171",
+    "region_id": 12
+  },
+  {
+    "id": 172,
+    "name": "Comuna 172",
+    "region_id": 13
+  },
+  {
+    "id": 173,
+    "name": "Comuna 173",
+    "region_id": 14
+  },
+  {
+    "id": 174,
+    "name": "Comuna 174",
+    "region_id": 15
+  },
+  {
+    "id": 175,
+    "name": "Comuna 175",
+    "region_id": 16
+  },
+  {
+    "id": 176,
+    "name": "Comuna 176",
+    "region_id": 1
+  },
+  {
+    "id": 177,
+    "name": "Comuna 177",
+    "region_id": 2
+  },
+  {
+    "id": 178,
+    "name": "Comuna 178",
+    "region_id": 3
+  },
+  {
+    "id": 179,
+    "name": "Comuna 179",
+    "region_id": 4
+  },
+  {
+    "id": 180,
+    "name": "Comuna 180",
+    "region_id": 5
+  },
+  {
+    "id": 181,
+    "name": "Comuna 181",
+    "region_id": 6
+  },
+  {
+    "id": 182,
+    "name": "Comuna 182",
+    "region_id": 7
+  },
+  {
+    "id": 183,
+    "name": "Comuna 183",
+    "region_id": 8
+  },
+  {
+    "id": 184,
+    "name": "Comuna 184",
+    "region_id": 9
+  },
+  {
+    "id": 185,
+    "name": "Comuna 185",
+    "region_id": 10
+  },
+  {
+    "id": 186,
+    "name": "Comuna 186",
+    "region_id": 11
+  },
+  {
+    "id": 187,
+    "name": "Comuna 187",
+    "region_id": 12
+  },
+  {
+    "id": 188,
+    "name": "Comuna 188",
+    "region_id": 13
+  },
+  {
+    "id": 189,
+    "name": "Comuna 189",
+    "region_id": 14
+  },
+  {
+    "id": 190,
+    "name": "Comuna 190",
+    "region_id": 15
+  },
+  {
+    "id": 191,
+    "name": "Comuna 191",
+    "region_id": 16
+  },
+  {
+    "id": 192,
+    "name": "Comuna 192",
+    "region_id": 1
+  },
+  {
+    "id": 193,
+    "name": "Comuna 193",
+    "region_id": 2
+  },
+  {
+    "id": 194,
+    "name": "Comuna 194",
+    "region_id": 3
+  },
+  {
+    "id": 195,
+    "name": "Comuna 195",
+    "region_id": 4
+  },
+  {
+    "id": 196,
+    "name": "Comuna 196",
+    "region_id": 5
+  },
+  {
+    "id": 197,
+    "name": "Comuna 197",
+    "region_id": 6
+  },
+  {
+    "id": 198,
+    "name": "Comuna 198",
+    "region_id": 7
+  },
+  {
+    "id": 199,
+    "name": "Comuna 199",
+    "region_id": 8
+  },
+  {
+    "id": 200,
+    "name": "Comuna 200",
+    "region_id": 9
+  },
+  {
+    "id": 201,
+    "name": "Comuna 201",
+    "region_id": 10
+  },
+  {
+    "id": 202,
+    "name": "Comuna 202",
+    "region_id": 11
+  },
+  {
+    "id": 203,
+    "name": "Comuna 203",
+    "region_id": 12
+  },
+  {
+    "id": 204,
+    "name": "Comuna 204",
+    "region_id": 13
+  },
+  {
+    "id": 205,
+    "name": "Comuna 205",
+    "region_id": 14
+  },
+  {
+    "id": 206,
+    "name": "Comuna 206",
+    "region_id": 15
+  },
+  {
+    "id": 207,
+    "name": "Comuna 207",
+    "region_id": 16
+  },
+  {
+    "id": 208,
+    "name": "Comuna 208",
+    "region_id": 1
+  },
+  {
+    "id": 209,
+    "name": "Comuna 209",
+    "region_id": 2
+  },
+  {
+    "id": 210,
+    "name": "Comuna 210",
+    "region_id": 3
+  },
+  {
+    "id": 211,
+    "name": "Comuna 211",
+    "region_id": 4
+  },
+  {
+    "id": 212,
+    "name": "Comuna 212",
+    "region_id": 5
+  },
+  {
+    "id": 213,
+    "name": "Comuna 213",
+    "region_id": 6
+  },
+  {
+    "id": 214,
+    "name": "Comuna 214",
+    "region_id": 7
+  },
+  {
+    "id": 215,
+    "name": "Comuna 215",
+    "region_id": 8
+  },
+  {
+    "id": 216,
+    "name": "Comuna 216",
+    "region_id": 9
+  },
+  {
+    "id": 217,
+    "name": "Comuna 217",
+    "region_id": 10
+  },
+  {
+    "id": 218,
+    "name": "Comuna 218",
+    "region_id": 11
+  },
+  {
+    "id": 219,
+    "name": "Comuna 219",
+    "region_id": 12
+  },
+  {
+    "id": 220,
+    "name": "Comuna 220",
+    "region_id": 13
+  },
+  {
+    "id": 221,
+    "name": "Comuna 221",
+    "region_id": 14
+  },
+  {
+    "id": 222,
+    "name": "Comuna 222",
+    "region_id": 15
+  },
+  {
+    "id": 223,
+    "name": "Comuna 223",
+    "region_id": 16
+  },
+  {
+    "id": 224,
+    "name": "Comuna 224",
+    "region_id": 1
+  },
+  {
+    "id": 225,
+    "name": "Comuna 225",
+    "region_id": 2
+  },
+  {
+    "id": 226,
+    "name": "Comuna 226",
+    "region_id": 3
+  },
+  {
+    "id": 227,
+    "name": "Comuna 227",
+    "region_id": 4
+  },
+  {
+    "id": 228,
+    "name": "Comuna 228",
+    "region_id": 5
+  },
+  {
+    "id": 229,
+    "name": "Comuna 229",
+    "region_id": 6
+  },
+  {
+    "id": 230,
+    "name": "Comuna 230",
+    "region_id": 7
+  },
+  {
+    "id": 231,
+    "name": "Comuna 231",
+    "region_id": 8
+  },
+  {
+    "id": 232,
+    "name": "Comuna 232",
+    "region_id": 9
+  },
+  {
+    "id": 233,
+    "name": "Comuna 233",
+    "region_id": 10
+  },
+  {
+    "id": 234,
+    "name": "Comuna 234",
+    "region_id": 11
+  },
+  {
+    "id": 235,
+    "name": "Comuna 235",
+    "region_id": 12
+  },
+  {
+    "id": 236,
+    "name": "Comuna 236",
+    "region_id": 13
+  },
+  {
+    "id": 237,
+    "name": "Comuna 237",
+    "region_id": 14
+  },
+  {
+    "id": 238,
+    "name": "Comuna 238",
+    "region_id": 15
+  },
+  {
+    "id": 239,
+    "name": "Comuna 239",
+    "region_id": 16
+  },
+  {
+    "id": 240,
+    "name": "Comuna 240",
+    "region_id": 1
+  },
+  {
+    "id": 241,
+    "name": "Comuna 241",
+    "region_id": 2
+  },
+  {
+    "id": 242,
+    "name": "Comuna 242",
+    "region_id": 3
+  },
+  {
+    "id": 243,
+    "name": "Comuna 243",
+    "region_id": 4
+  },
+  {
+    "id": 244,
+    "name": "Comuna 244",
+    "region_id": 5
+  },
+  {
+    "id": 245,
+    "name": "Comuna 245",
+    "region_id": 6
+  },
+  {
+    "id": 246,
+    "name": "Comuna 246",
+    "region_id": 7
+  },
+  {
+    "id": 247,
+    "name": "Comuna 247",
+    "region_id": 8
+  },
+  {
+    "id": 248,
+    "name": "Comuna 248",
+    "region_id": 9
+  },
+  {
+    "id": 249,
+    "name": "Comuna 249",
+    "region_id": 10
+  },
+  {
+    "id": 250,
+    "name": "Comuna 250",
+    "region_id": 11
+  },
+  {
+    "id": 251,
+    "name": "Comuna 251",
+    "region_id": 12
+  },
+  {
+    "id": 252,
+    "name": "Comuna 252",
+    "region_id": 13
+  },
+  {
+    "id": 253,
+    "name": "Comuna 253",
+    "region_id": 14
+  },
+  {
+    "id": 254,
+    "name": "Comuna 254",
+    "region_id": 15
+  },
+  {
+    "id": 255,
+    "name": "Comuna 255",
+    "region_id": 16
+  },
+  {
+    "id": 256,
+    "name": "Comuna 256",
+    "region_id": 1
+  },
+  {
+    "id": 257,
+    "name": "Comuna 257",
+    "region_id": 2
+  },
+  {
+    "id": 258,
+    "name": "Comuna 258",
+    "region_id": 3
+  },
+  {
+    "id": 259,
+    "name": "Comuna 259",
+    "region_id": 4
+  },
+  {
+    "id": 260,
+    "name": "Comuna 260",
+    "region_id": 5
+  },
+  {
+    "id": 261,
+    "name": "Comuna 261",
+    "region_id": 6
+  },
+  {
+    "id": 262,
+    "name": "Comuna 262",
+    "region_id": 7
+  },
+  {
+    "id": 263,
+    "name": "Comuna 263",
+    "region_id": 8
+  },
+  {
+    "id": 264,
+    "name": "Comuna 264",
+    "region_id": 9
+  },
+  {
+    "id": 265,
+    "name": "Comuna 265",
+    "region_id": 10
+  },
+  {
+    "id": 266,
+    "name": "Comuna 266",
+    "region_id": 11
+  },
+  {
+    "id": 267,
+    "name": "Comuna 267",
+    "region_id": 12
+  },
+  {
+    "id": 268,
+    "name": "Comuna 268",
+    "region_id": 13
+  },
+  {
+    "id": 269,
+    "name": "Comuna 269",
+    "region_id": 14
+  },
+  {
+    "id": 270,
+    "name": "Comuna 270",
+    "region_id": 15
+  },
+  {
+    "id": 271,
+    "name": "Comuna 271",
+    "region_id": 16
+  },
+  {
+    "id": 272,
+    "name": "Comuna 272",
+    "region_id": 1
+  },
+  {
+    "id": 273,
+    "name": "Comuna 273",
+    "region_id": 2
+  },
+  {
+    "id": 274,
+    "name": "Comuna 274",
+    "region_id": 3
+  },
+  {
+    "id": 275,
+    "name": "Comuna 275",
+    "region_id": 4
+  },
+  {
+    "id": 276,
+    "name": "Comuna 276",
+    "region_id": 5
+  },
+  {
+    "id": 277,
+    "name": "Comuna 277",
+    "region_id": 6
+  },
+  {
+    "id": 278,
+    "name": "Comuna 278",
+    "region_id": 7
+  },
+  {
+    "id": 279,
+    "name": "Comuna 279",
+    "region_id": 8
+  },
+  {
+    "id": 280,
+    "name": "Comuna 280",
+    "region_id": 9
+  },
+  {
+    "id": 281,
+    "name": "Comuna 281",
+    "region_id": 10
+  },
+  {
+    "id": 282,
+    "name": "Comuna 282",
+    "region_id": 11
+  },
+  {
+    "id": 283,
+    "name": "Comuna 283",
+    "region_id": 12
+  },
+  {
+    "id": 284,
+    "name": "Comuna 284",
+    "region_id": 13
+  },
+  {
+    "id": 285,
+    "name": "Comuna 285",
+    "region_id": 14
+  },
+  {
+    "id": 286,
+    "name": "Comuna 286",
+    "region_id": 15
+  },
+  {
+    "id": 287,
+    "name": "Comuna 287",
+    "region_id": 16
+  },
+  {
+    "id": 288,
+    "name": "Comuna 288",
+    "region_id": 1
+  },
+  {
+    "id": 289,
+    "name": "Comuna 289",
+    "region_id": 2
+  },
+  {
+    "id": 290,
+    "name": "Comuna 290",
+    "region_id": 3
+  },
+  {
+    "id": 291,
+    "name": "Comuna 291",
+    "region_id": 4
+  },
+  {
+    "id": 292,
+    "name": "Comuna 292",
+    "region_id": 5
+  },
+  {
+    "id": 293,
+    "name": "Comuna 293",
+    "region_id": 6
+  },
+  {
+    "id": 294,
+    "name": "Comuna 294",
+    "region_id": 7
+  },
+  {
+    "id": 295,
+    "name": "Comuna 295",
+    "region_id": 8
+  },
+  {
+    "id": 296,
+    "name": "Comuna 296",
+    "region_id": 9
+  },
+  {
+    "id": 297,
+    "name": "Comuna 297",
+    "region_id": 10
+  },
+  {
+    "id": 298,
+    "name": "Comuna 298",
+    "region_id": 11
+  },
+  {
+    "id": 299,
+    "name": "Comuna 299",
+    "region_id": 12
+  },
+  {
+    "id": 300,
+    "name": "Comuna 300",
+    "region_id": 13
+  },
+  {
+    "id": 301,
+    "name": "Comuna 301",
+    "region_id": 14
+  },
+  {
+    "id": 302,
+    "name": "Comuna 302",
+    "region_id": 15
+  },
+  {
+    "id": 303,
+    "name": "Comuna 303",
+    "region_id": 16
+  },
+  {
+    "id": 304,
+    "name": "Comuna 304",
+    "region_id": 1
+  },
+  {
+    "id": 305,
+    "name": "Comuna 305",
+    "region_id": 2
+  },
+  {
+    "id": 306,
+    "name": "Comuna 306",
+    "region_id": 3
+  },
+  {
+    "id": 307,
+    "name": "Comuna 307",
+    "region_id": 4
+  },
+  {
+    "id": 308,
+    "name": "Comuna 308",
+    "region_id": 5
+  },
+  {
+    "id": 309,
+    "name": "Comuna 309",
+    "region_id": 6
+  },
+  {
+    "id": 310,
+    "name": "Comuna 310",
+    "region_id": 7
+  },
+  {
+    "id": 311,
+    "name": "Comuna 311",
+    "region_id": 8
+  },
+  {
+    "id": 312,
+    "name": "Comuna 312",
+    "region_id": 9
+  },
+  {
+    "id": 313,
+    "name": "Comuna 313",
+    "region_id": 10
+  },
+  {
+    "id": 314,
+    "name": "Comuna 314",
+    "region_id": 11
+  },
+  {
+    "id": 315,
+    "name": "Comuna 315",
+    "region_id": 12
+  },
+  {
+    "id": 316,
+    "name": "Comuna 316",
+    "region_id": 13
+  },
+  {
+    "id": 317,
+    "name": "Comuna 317",
+    "region_id": 14
+  },
+  {
+    "id": 318,
+    "name": "Comuna 318",
+    "region_id": 15
+  },
+  {
+    "id": 319,
+    "name": "Comuna 319",
+    "region_id": 16
+  },
+  {
+    "id": 320,
+    "name": "Comuna 320",
+    "region_id": 1
+  },
+  {
+    "id": 321,
+    "name": "Comuna 321",
+    "region_id": 2
+  },
+  {
+    "id": 322,
+    "name": "Comuna 322",
+    "region_id": 3
+  },
+  {
+    "id": 323,
+    "name": "Comuna 323",
+    "region_id": 4
+  },
+  {
+    "id": 324,
+    "name": "Comuna 324",
+    "region_id": 5
+  },
+  {
+    "id": 325,
+    "name": "Comuna 325",
+    "region_id": 6
+  },
+  {
+    "id": 326,
+    "name": "Comuna 326",
+    "region_id": 7
+  },
+  {
+    "id": 327,
+    "name": "Comuna 327",
+    "region_id": 8
+  },
+  {
+    "id": 328,
+    "name": "Comuna 328",
+    "region_id": 9
+  },
+  {
+    "id": 329,
+    "name": "Comuna 329",
+    "region_id": 10
+  },
+  {
+    "id": 330,
+    "name": "Comuna 330",
+    "region_id": 11
+  },
+  {
+    "id": 331,
+    "name": "Comuna 331",
+    "region_id": 12
+  },
+  {
+    "id": 332,
+    "name": "Comuna 332",
+    "region_id": 13
+  },
+  {
+    "id": 333,
+    "name": "Comuna 333",
+    "region_id": 14
+  },
+  {
+    "id": 334,
+    "name": "Comuna 334",
+    "region_id": 15
+  },
+  {
+    "id": 335,
+    "name": "Comuna 335",
+    "region_id": 16
+  },
+  {
+    "id": 336,
+    "name": "Comuna 336",
+    "region_id": 1
+  },
+  {
+    "id": 337,
+    "name": "Comuna 337",
+    "region_id": 2
+  },
+  {
+    "id": 338,
+    "name": "Comuna 338",
+    "region_id": 3
+  },
+  {
+    "id": 339,
+    "name": "Comuna 339",
+    "region_id": 4
+  },
+  {
+    "id": 340,
+    "name": "Comuna 340",
+    "region_id": 5
+  },
+  {
+    "id": 341,
+    "name": "Comuna 341",
+    "region_id": 6
+  },
+  {
+    "id": 342,
+    "name": "Comuna 342",
+    "region_id": 7
+  },
+  {
+    "id": 343,
+    "name": "Comuna 343",
+    "region_id": 8
+  },
+  {
+    "id": 344,
+    "name": "Comuna 344",
+    "region_id": 9
+  },
+  {
+    "id": 345,
+    "name": "Comuna 345",
+    "region_id": 10
+  },
+  {
+    "id": 346,
+    "name": "Comuna 346",
+    "region_id": 11
+  }
+]

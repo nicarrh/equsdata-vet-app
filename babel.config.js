@@ -9,6 +9,7 @@ module.exports = {
 					'@/auth': './src/auth/index.ts',
 					'@/shared/*': './src/shared/*',		
 					'@/navigation': './src/navigation/index.ts',		
+					'@/home': './src/home/index.ts',		
 				},
 			},
 		],

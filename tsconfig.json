@@ -5,7 +5,8 @@
     "paths": {
       "@/auth": ["./src/auth/index.ts"],
       "@/shared/*": ["./src/shared/*"],
-      "@/navigation": ["./src/navigation/index.ts"],		
+      "@/navigation": ["./src/navigation/index.ts"],
+      "@/home": ["./src/home/index.ts"],
       "@/assets/*": [
         "./assets/*"
       ]
